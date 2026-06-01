@@ -5,3 +5,6 @@ env/
 
 # python
 __pycache__
+
+# Documents
+data
